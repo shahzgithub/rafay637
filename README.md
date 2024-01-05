@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Rafay!</h1>
+
 <h3 align="center">Anonymous guy stucked in the world of Developers 🏃</h3>
 
 <img align="center" width="400" alt="Coding"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLGqzfQQZJ0sjexi5GyMpKsF2cFrGDspWdTQ&usqp=CAU">
